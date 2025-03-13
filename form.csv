@@ -1,4 +1,4 @@
-Timestamp,Name,Roll Number,Branch,Year,Frequency of study hours before exams(in hours per day),Frequency of study hours during examination(in hours per day),Study_Method,Environment prefered for preperation ,CGPA (average of all SGPAs till now)
+Timestamp,Name,Roll Number,Branch,Year,Before,During,Study_Method,Environment,CGPA
 2/20/2025 16:05:00,Ani,BTECH/11026/23,PRODUCTION,K23,23,8.147727273,"Solo(Offline via books and lecture notes), Class lectures and notes only, Solo(Online via video lectures)",Library,
 2/20/2025 16:05:12,Ankit Kumar ,BTech/10233/24,CSE,K24,8,8,Solo(Online via video lectures),Library,
 2/20/2025 16:05:54,Tathya Varma,btech1080024,AIML,K24,0,6,Solo(Online via video lectures),Room(Group Study),
